@@ -1,2 +1,4 @@
-print "Hola Mundo"
+print "Hola Mundo cruel"
+
+print "Adios Mundo"
 
